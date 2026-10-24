@@ -1,0 +1,12 @@
+*.sqlite*
+*.db*
+*.csv
+*.log
+.env*
+__pycache__/
+venv/
+.venv/
+runtime/
+backups/
+credentials*
+.DS_Store
